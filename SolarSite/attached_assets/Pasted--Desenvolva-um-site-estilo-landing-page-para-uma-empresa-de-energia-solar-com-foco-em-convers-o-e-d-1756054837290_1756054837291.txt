@@ -1,0 +1,61 @@
+"Desenvolva um site estilo landing page para uma empresa de energia solar, com foco em conversão e design moderno. Atenda às seguintes especificações:
+
+1. Estrutura do projeto
+
+Utilize TailwindCSS para toda a estilização.
+
+Separe os arquivos em:
+
+index.html (HTML principal),
+
+style.css (CSS adicional, apenas quando necessário),
+
+script.js (JavaScript para interações).
+
+Organize os arquivos em pastas (/assets, /img, /css, /js) com comentários explicativos no código.
+
+2. Design e identidade visual
+
+Paleta de cores que remeta à energia solar (tons de amarelo, laranja, verde e azul suave).
+
+Layout responsivo, leve e rápido, seguindo boas práticas de SEO.
+
+Tipografia limpa e moderna, com contraste adequado para leitura.
+
+3. Estrutura da página (seções)
+
+Hero (início): título chamativo, subtítulo, imagem ou ícone de energia solar, botão fixo de WhatsApp e CTA de orçamento.
+
+Sobre a empresa: texto curto, imagem ilustrativa e destaque para missão, visão e valores.
+
+Serviços: blocos separados para instalação, manutenção e consultoria.
+
+Vantagens da energia solar: lista com ícones para economia, sustentabilidade e retorno do investimento.
+
+Projetos realizados: galeria ou carrossel de imagens simples.
+
+Contato: formulário funcional (HTML + JS simulado), endereço, telefone, mapa e botão fixo do WhatsApp.
+
+4. Navegação e usabilidade
+
+Menu fixo no topo com links âncora para as seções: Início, Sobre, Serviços, Projetos, Contato.
+
+Menu responsivo (hamburger menu) em dispositivos móveis.
+
+Rolagem suave ao clicar nos links.
+
+5. Funcionalidades extras
+
+Pequenas animações de entrada (fade/slide) usando apenas CSS ou JS simples.
+
+Estrutura preparada para fácil integração futura com backend.
+
+Se possível, incluir um CTA extra para simular uma calculadora simples de economia com energia solar.
+
+6. Qualidade do código
+
+Código limpo, organizado e comentado.
+
+Seguir boas práticas de acessibilidade (alt em imagens, contraste adequado, labels em formulários).
+
+Evitar código redundante — usar recursos nativos do Tailwind sempre que possível.

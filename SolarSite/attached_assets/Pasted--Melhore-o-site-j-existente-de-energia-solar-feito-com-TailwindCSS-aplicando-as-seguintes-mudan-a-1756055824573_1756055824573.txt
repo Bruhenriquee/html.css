@@ -1,0 +1,55 @@
+"Melhore o site já existente de energia solar, feito com TailwindCSS, aplicando as seguintes mudanças e correções:
+
+1. Área de simulação
+
+Adicione um aviso destacado informando claramente: 'Esta é apenas uma simulação. Os valores apresentados podem variar conforme consumo, localização e condições do projeto.'
+
+Use um container com fundo amarelo claro (bg-yellow-100), borda sutil (border-yellow-300) e espaçamento interno (p-4).
+
+Reorganize o formulário usando space-y-4 ou gap-6 para separar os campos.
+
+Insira placeholders explicativos nos inputs.
+
+Após o resultado da simulação, inclua uma frase: 'Quer um orçamento real e personalizado?' com botão para WhatsApp ou formulário de contato.
+
+2. Seção de projetos
+
+Remova o botão “Ver todos os projetos”.
+
+Se houver muitos projetos, transforme em carrossel horizontal simples com setas usando JS leve.
+
+Se houver poucos projetos, aumente espaçamento interno (p-6 ou p-8), bordas arredondadas (rounded-xl) e sombra (shadow-lg).
+
+Adicione pequena legenda em cada projeto (ex.: tipo de instalação, potência do sistema).
+
+3. Ajustes gerais de espaçamento
+
+Aumente espaçamento entre seções (py-20 ou py-24).
+
+Adicione margens laterais adequadas no mobile (px-4 ou px-6).
+
+Em grids ou listas, use gap-8 para melhorar separação.
+
+Verifique alinhamentos verticais para evitar desalinhamentos entre textos, botões e imagens.
+
+4. Melhorias de usabilidade e conversão
+
+Destacar CTA principal (ex.: “Solicite seu orçamento”) com bg-yellow-500 hover:bg-yellow-600 text-white.
+
+Adicionar microanimações (transition-all duration-300) para botões, ícones e cards.
+
+Incluir depoimentos curtos ou selos de garantia para aumentar a credibilidade.
+
+Garantir acessibilidade: adicionar alt descritivo nas imagens e label para inputs do formulário.
+
+5. Revisão de SEO e performance
+
+Certificar que os títulos usam corretamente <h1>, <h2>, <h3>.
+
+Otimizar imagens (formatos WebP ou JPEG comprimido).
+
+Adicionar meta description e tags Open Graph para redes sociais.
+
+Verificar velocidade no Google PageSpeed Insights e reduzir qualquer bloqueio por CSS/JS não usado.
+
+Entregue todo o código atualizado em TailwindCSS, com HTML, CSS e JavaScript separados, usando nomes de arquivos claros (index.html, style.css, script.js) e comentários explicativos para cada mudança feita."
